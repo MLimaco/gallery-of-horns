@@ -25,3 +25,38 @@ Explica qué herramientas se utilizaron.
 Enumera las versiones.
 ## Colaboradores
 Enumera a tus colaboradores aquí.
+
+Número y nombre de la funcionalidad:Funcionalidad #1: Mostrar imágenes
+
+
+Tiempo estimado necesario para completarlo: 5minutos
+
+Hora de inicio:00:12
+
+Hora de finalización: 00:17
+
+Tiempo real necesario para completarlo: 5minutos
+
+
+Número y nombre de la funcionalidad:Funcionalidad #2: Permitir a los usuarios marcar como favoritos animales individuales
+
+
+Tiempo estimado necesario para completarlo: 25minutos
+
+Hora de inicio:00:17
+
+Hora de finalización: 00:30
+
+Tiempo real necesario para completarlo: 13minutos
+
+
+Número y nombre de la funcionalidad:Funcionalidad #3: Bootstrap
+
+
+Tiempo estimado necesario para completarlo: 25minutos
+
+Hora de inicio:00:30
+
+Hora de finalización: 01:01
+
+Tiempo real necesario para completarlo: 31minutos
