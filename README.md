@@ -26,6 +26,8 @@ Enumera las versiones.
 ## Colaboradores
 Enumera a tus colaboradores aquí.
 
+### Lab02
+
 Número y nombre de la funcionalidad:Funcionalidad #1: Mostrar imágenes
 
 
@@ -60,3 +62,15 @@ Hora de inicio:00:30
 Hora de finalización: 01:01
 
 Tiempo real necesario para completarlo: 31minutos
+
+### Lab03
+
+Número y nombre de la funcionalidad:Funcionalidad #1: Mostrar un modal
+
+Tiempo estimado necesario para completarlo: 20minutos
+
+Hora de inicio:19:43
+
+Hora de finalización: 20:03
+
+Tiempo real necesario para completarlo: 20minutos
