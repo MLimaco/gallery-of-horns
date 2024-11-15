@@ -2,17 +2,18 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-
 function HornerBeast(props) {
     const [favorito, setFavorito] = useState(0);
 
     const addFavorito = () => {
-        setFavorito(favorito + 1)
+        setFavorito(favorito + 1);
+        props.displayAsModal(props.title)
     };
+
     return (
         <>
-            <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={props.imageUrl} onClick={addFavorito} />
+            <Card style={{ width: '18rem' }} onClick={addFavorito} >
+                <Card.Img variant="top" src={props.imageUrl} />
                 <Card.Body>
                     <Card.Title>{props.title}</Card.Title>
                     <Card.Text>
