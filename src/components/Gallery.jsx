@@ -29,7 +29,13 @@ function Gallery(props) {
     return (
         <>
             <Form.Label>Filtra por número de cuernos</Form.Label>
-            <Form.Select aria-label="Default select example" size="lg" value={cuerno} onChange={handleSelectChange}>
+            <Form.Select
+            className="bg-dark text-light border-light" 
+            aria-label="Default select example" 
+            size="lg" 
+            value={cuerno} 
+            onChange={handleSelectChange}
+            >
                 <option value="">Elige el número de cuernos</option>
                 <option value="1">Un cuerno</option>
                 <option value="2">Dos cuernos</option>
