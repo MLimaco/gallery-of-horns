@@ -74,3 +74,15 @@ Hora de inicio:19:43
 Hora de finalización: 20:03
 
 Tiempo real necesario para completarlo: 20minutos
+
+### Lab04
+
+Número y nombre de la funcionalidad:Formularios y Filtro
+
+Tiempo estimado necesario para completarlo: 15minutos
+
+Hora de inicio:19:33
+
+Hora de finalización: 19:38
+
+Tiempo real necesario para completarlo: 20minutos

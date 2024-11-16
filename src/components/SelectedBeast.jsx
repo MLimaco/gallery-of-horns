@@ -3,7 +3,9 @@ import Modal from 'react-bootstrap/Modal';
 
 function SelectedBeast(props) {
     return (
-        <Modal
+        <Modal 
+            bg={"dark"} 
+            text={"light"}
             size="lg"
             aria-labelledby="contained-modal-title-vcenter"
             centered

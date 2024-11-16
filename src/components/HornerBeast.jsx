@@ -12,7 +12,7 @@ function HornerBeast(props) {
 
     return (
         <>
-            <Card style={{ width: '18rem' }} onClick={addFavorito} >
+            <Card  bg={"dark"} text={"light"} style={{ width: '18rem', margin: '0.5rem' }} onClick={addFavorito} >
                 <Card.Img variant="top" src={props.imageUrl} />
                 <Card.Body>
                     <Card.Title>{props.title}</Card.Title>
